@@ -1,1 +1,33 @@
+# Diagrama Entidad–Relación (E/R)
+
+Documentación correspondiente al apartado de **modelado de datos** dentro del Proyecto Intermodular de 1º SMR.  
+Este módulo incluye el diagrama Entidad–Relación utilizado para representar la estructura de datos del sistema de gestión de citas de la clínica.
+
+## Documento completo
+- Proyecto - Diagrama Entidad Relación.pdf
+
+
+## Descripción del diagrama
+
+El diagrama Entidad–Relación muestra cómo se organiza la información necesaria para gestionar las citas médicas de la clínica.  
+
+## Entidad MÉDICO
+Representa a los profesionales que atienden a los pacientes.  
+
+## Entidad PACIENTE
+Contiene los datos personales de cada paciente atendido en la clínica.  
+
+## Entidad CITA
+Es la entidad central del sistema, ya que conecta a médicos y pacientes.  
+
+## 🔗 Relaciones del modelo
+- MÉDICO 1:N CITA 
+  Un médico puede tener muchas citas, pero cada cita pertenece a un único médico.
+
+- PACIENTE 1:N CITA
+  Un paciente puede tener varias citas, pero cada cita corresponde a un único paciente.
+
+## 🎯 Objetivo del modelo
+Representar de forma clara y estructurada la información necesaria para gestionar las citas médicas, garantizando una base sólida para el diseño de la base de datos y el funcionamiento del sistema.
+
 
