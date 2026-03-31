@@ -1,22 +1,24 @@
 
-#Redes Locales
+# Redes Locales
 Documentación correspondiente al módulo Redes Locales dentro del Proyecto Intermodular de 1º SMR.
 Incluye el documento completo y todas las evidencias individuales relacionadas con el diseño, configuración y simulación de la red de la Clínica Vitaris.
 
-##Documento completo
+## Documento completo
 Proyecto completo - Redes Locales.pdf
 
-##Apartados individuales
+## Apartados individuales
 1. 	Análisis de necesidades de red.pdf
 2. 	Diseño de la red.pdf
 3. 	Plan de direccionamiento IP.pdf
 4. 	Servicios de red básicos.pdf
 5. 	Simulación de funcionamiento de la red en Cisco.pdf
 
-##Contenido del módulo
+Tambien incluye el diseño de red en cisco packet tracer
+
+## Contenido del módulo
 Este proyecto contiene todo el proceso de diseño, planificación y simulación de la red local de la Clínica.
 
-###1. Análisis de necesidades de red
+### 1. Análisis de necesidades de red
 Identificación de los equipos y servicios necesarios para el funcionamiento de la clínica:
 • 	4 ordenadores
 • 	4 teléfonos IP
@@ -26,17 +28,17 @@ Identificación de los equipos y servicios necesarios para el funcionamiento de 
 • 	Servicios: Internet, carpetas compartidas, impresoras en red, WiFi, comunicación interna
 
 
-###2. Diseño de la red
+### 2. Diseño de la red
 La red se ha diseñado con una topología en estrella. 
 
-###3. Plan de direccionamiento IP
+### 3. Plan de direccionamiento IP
 Red definida: 192.168.10.0/24
 • 	IPs fijas para ordenadores, impresoras, teléfonos IP, AP y servidor
 • 	Rango DHCP para clientes WiFi
 • 	Tabla completa de asignación de direcciones
 
 
-###4. Servicios de red básicos
+### 4. Servicios de red básicos
 • 	Carpeta compartida en el NAS
 • 	Impresoras en red
 • 	Acceso a Internet mediante NAT y firewall
@@ -45,7 +47,7 @@ Red definida: 192.168.10.0/24
 • 	DHCP para dispositivos WiFi
 
 
-###5. Simulación de la red en Cisco Packet Tracer
+### 5. Simulación de la red en Cisco Packet Tracer
 Documentación completa del proceso:
 • 	Configuración inicial de IPs
 • 	Configuración del router y DHCP
@@ -54,5 +56,5 @@ Documentación completa del proceso:
 • 	Verificación del funcionamiento global de la red
 
 
-##Objetivo del módulo
+## Objetivo del módulo
 Diseñar, configurar y simular una red local funcional para un entorno profesional, garantizando conectividad, seguridad y organización de recursos dentro de la Clínica.
