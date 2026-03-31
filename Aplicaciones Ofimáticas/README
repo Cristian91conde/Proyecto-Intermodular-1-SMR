@@ -1,1 +1,52 @@
+# Aplicaciones Ofimáticas  
+Documentación correspondiente al módulo Aplicaciones Ofimáticas dentro del Proyecto Intermodular de 1º SMR.  
+Incluye el documento completo y todos los apartados relacionados con la descripción de la empresa, el inventario de equipos, el registro de incidencias y la presentación del sistema informático.
 
+## Documento completo  
+- Proyecto completo - Aplicaciones ofimaticas.pdf
+
+## Contenido del módulo  
+Este proyecto recoge la descripción de la empresa simulada, su actividad, los tipos de empleados, la infraestructura informática utilizada, el inventario de equipos, el registro de incidencias y la presentación del sistema informático.
+
+## 1. Documento descriptivo de la empresa  
+Se presenta la empresa simulada utilizada en el proyecto intermodular, detallando su actividad, estructura de personal e infraestructura informática.
+
+### 1.1 Nombre y descripción de la empresa  
+La empresa elegida es Clínica Vitaris, un centro médico privado dedicado a la atención sanitaria básica y medicina general. Su objetivo es ofrecer un servicio profesional, cercano y eficiente.
+
+### 1.2 Actividad principal  
+La clínica realiza consultas de medicina general, diagnóstico básico, seguimiento de pacientes y gestión de citas médicas.
+
+### 1.3 Tipos de empleados  
+La empresa cuenta con:  
+- Dirección  
+- Recepción/Administración  
+- Médicos de medicina general  
+- Técnico de soporte informático externo  
+
+### 1.4 Infraestructura informática  
+Incluye ordenadores de sobremesa, teléfonos IP, impresoras de red, router, switch, punto de acceso WiFi y un servidor/NAS.  
+El software utilizado incluye Windows 11 Pro, LibreOffice, Clinic Cloud, Adobe Reader, 7‑Zip y Microsoft Defender.
+
+### 1.5 Objetivo del sistema informático  
+El sistema informático está diseñado para agilizar el trabajo diario, gestionar citas, organizar información médica, mejorar la comunicación interna y garantizar la seguridad de los datos.
+
+## 2. Inventario de equipos  
+El inventario recoge todos los dispositivos informáticos de la clínica, indicando usuario, ubicación, sistema operativo, software instalado y características técnicas.  
+Este registro facilita el mantenimiento, la sustitución de equipos y la gestión del parque informático.
+
+## 3. Registro de incidencias  
+Incluye todas las incidencias técnicas detectadas en los equipos, junto con la solución aplicada, el técnico responsable y el estado de cada intervención.  
+Este registro permite realizar un seguimiento organizado del mantenimiento y asegurar el correcto funcionamiento de los dispositivos.
+
+## 4. Presentación del sistema informático  
+Se muestran las capturas de la presentación realizada en PowerPoint, donde se resumen los aspectos principales del proyecto intermodular:  
+- Necesidades informáticas de la empresa  
+- Equipos utilizados  
+- Diseño de la red  
+- Configuración de los equipos  
+- Ventajas del sistema  
+- Reflexión final  
+
+## Objetivo del módulo  
+Comprender cómo se documenta una empresa a nivel ofimático, elaborar inventarios, registrar incidencias y presentar de forma clara la infraestructura informática utilizada en el proyecto intermodular.
