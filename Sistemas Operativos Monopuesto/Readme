@@ -1,1 +1,61 @@
+Sistemas Operativos Monopuesto.
 
+Proyecto correspondiente al módulo Sistemas Operativos Monopuesto del Proyecto Intermodular de 1º SMR.
+ncluye todas las tareas realizadas, tanto en formato individual como en un documento completo para facilitar la revisión.
+
+- Proyecto completo:
+
+Sistemas Operativos Monopuesto.pdf
+
+- Apartados individuales:
+1. 	Elección del sistema operativo.pdf
+2. 	Instalación del sistema operativo.pdf
+3. 	Configuración básica del sistema.pdf
+4. 	Gestión de usuarios.pdf
+5. 	Instalación del software necesario.pdf
+6. 	Medidas básicas de seguridad.pdf
+
+- Contenido del módulo.
+
+Este módulo recoge todo el proceso técnico necesario para preparar un equipo con Windows 11 Pro en un entorno profesional real.
+
+1. Elección del sistema operativo
+Justificación de por qué Windows 11 Pro es la opción adecuada para la Clínica Vitaris, destacando compatibilidad, seguridad, facilidad de uso y gestión de usuarios.
+
+2. Instalación del sistema operativo
+Proceso completo documentado paso a paso:
+• 	Arranque desde USB
+• 	Selección de idioma y teclado
+• 	Instalación limpia
+• 	Elección de edición
+• 	Particionado automático
+• 	Proceso de copia de archivos
+• 	Configuración inicial del sistema
+
+3. Configuración básica del sistema
+• 	Cambio de nombre del equipo
+• 	Configuración de red (perfil privado)
+• 	Instalación de actualizaciones
+• 	Configuración regional
+• 	Revisión de controladores
+
+4. Gestión de usuarios
+
+Creación de cuentas mediante CMD, separación de roles y verificación de permisos.
+
+5. Instalación de software necesario
+Aplicaciones instaladas:
+• 	Google Chrome
+• 	LibreOffice
+• 	Clinic Cloud
+• 	7-Zip
+• 	Adobe Acrobat Reader
+
+6. Medidas básicas de seguridad
+• 	Actualizaciones automáticas
+• 	Contraseñas seguras
+• 	Firewall activo
+• 	Microsoft Defender
+
+- Objetivo del módulo.
+Demostrar la capacidad de instalar, configurar, asegurar y preparar un sistema operativo para su uso en un entorno profesional.
